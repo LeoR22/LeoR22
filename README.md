@@ -1,5 +1,5 @@
 # 💫 Sobre Leandro Rivera:
-✅Desarrollador de software full stack.<br>✅Experiencia en Python, Flask, Django, Tkinter, Pandas, integración de API, JavaScript y Node.js.<br>✅Busco proyectos emocionantes <br>✅Busco nuevos desafios para seguir creciendo en tecnología.
+✅Desarrollador de software full stack.<br>✅Experiencia en Python, Flask, Django, Tkinter, Pandas, integración de API, JavaScript y Node.js.<br>✅Aprendiendo Java, Spring Boot, Devops<br>✅Busco proyectos emocionantes <br>✅Busco nuevos desafios para seguir creciendo en tecnología.
 
 
 ## 🌐 Socials:
