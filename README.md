@@ -1,8 +1,18 @@
-# 💫 Sobre Leandro Rivera:
-✅Desarrollador de software full stack.<br>✅Experiencia en Python, Flask, Django, Tkinter, Pandas, integración de API, JavaScript y Node.js.<br>✅Aprendiendo Java, Spring Boot, Devops<br>✅Busco proyectos emocionantes <br>✅Busco nuevos desafios para seguir creciendo en tecnología.
+# 💫 Hola, soy Leandro Rivera👋
+Soy un Desarrollador Full Stack con un enfoque en analítica de datos y inteligencia artificial. Apasionado por crear soluciones innovadoras para el mundo digital. 🚀, disfruto enfrentar desafíos técnicos que me permiten crecer y aprender continuamente.
 
+## Habilidades
+- **Lenguajes y tecnologías:** Python, JavaScript, Java, PHP, Django, FastAPI, Flask, Spring Boot, Laravel, Docker, MySQL.
+- **Middleware Development:** Experiencia en IBM API Connect para integrar y gestionar APIs de manera eficiente.
+- **Nube y DevOps:** Familiaridad con AWS, OpenShift y Azure para implementar soluciones escalables y seguras.
+- **Inteligencia Artificial y MLOps:** Enfoque en modelos de lenguaje (LLMs) y la implementación de prácticas de MLOps para asegurar el despliegue efectivo de modelos de IA.
 
-## 🌐 Socials:
+## Acerca de mí
+- 💡 Apasionado por la analítica y la optimización de procesos, busco siempre mejorar la experiencia del usuario a través de datos.
+- 🌱 Estoy en la búsqueda de nuevos desafíos y oportunidades para colaborar en proyectos que integren Desarrollo de software, inteligencia artificial o análisis de datos.
+- 💬 ¡Hablemos sobre inteligencia artificial, MLOps, automatización y cómo podemos innovar juntos!
+
+## 🌐Conéctate conmigo 🤝:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/leandrorivera) 
 
 # 💻 Tech Stack:
